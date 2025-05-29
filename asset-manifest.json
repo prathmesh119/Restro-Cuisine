@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Restro-Cuisine/static/css/main.94ca629a.css",
+    "main.js": "/Restro-Cuisine/static/js/main.8cc04ccd.js",
+    "static/js/453.99c1801e.chunk.js": "/Restro-Cuisine/static/js/453.99c1801e.chunk.js",
+    "static/media/pizza-pizza-filled-with-tomatoes-salami-olives.jpg": "/Restro-Cuisine/static/media/pizza-pizza-filled-with-tomatoes-salami-olives.dba2a67e8807469e646b.jpg",
+    "static/media/vecteezy_french-fries-on-the-wood-plate-with_23846974.jpg": "/Restro-Cuisine/static/media/vecteezy_french-fries-on-the-wood-plate-with_23846974.3050904b6a74a7d70e37.jpg",
+    "static/media/istockphoto-1309352410-612x612.jpg": "/Restro-Cuisine/static/media/istockphoto-1309352410-612x612.2f4c2c6c20bb0a8fcfbe.jpg",
+    "static/media/verified.png": "/Restro-Cuisine/static/media/verified.21e91f989208922404a9.png",
+    "index.html": "/Restro-Cuisine/index.html",
+    "main.94ca629a.css.map": "/Restro-Cuisine/static/css/main.94ca629a.css.map",
+    "main.8cc04ccd.js.map": "/Restro-Cuisine/static/js/main.8cc04ccd.js.map",
+    "453.99c1801e.chunk.js.map": "/Restro-Cuisine/static/js/453.99c1801e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ca629a.css",
+    "static/js/main.8cc04ccd.js"
+  ]
+}
